@@ -2,7 +2,7 @@ var turn = 1;
 var player = 1;
 var board_size = 3;
 var won;
- 
+
 // cell creation
 var game = document.getElementById("game");
 var tbl = document.createElement("table");
